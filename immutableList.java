@@ -22,3 +22,8 @@ class GFG {
         iList(list); 
     } 
 } 
+
+
+// ============ OUTPUT ============
+
+// [Geeks, For, Geeks]
